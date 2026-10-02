@@ -2,6 +2,10 @@
 
 An AI-powered resume analysis web application that compares a candidate's resume with a job description and identifies matched and missing skills.
 
+## Live Demo
+
+https://ai-resume-analyzer-qjbebyshdk6w8ahmdxuj6f.streamlit.app/
+
 ## Features
 
 - Upload resume in PDF format
@@ -17,7 +21,7 @@ An AI-powered resume analysis web application that compares a candidate's resume
 - Python
 - Streamlit
 - PyMuPDF
-- NLP / Regex-based skill extraction
+- Rule-based skill extraction
 - HTML/CSS through Streamlit
 
 ## Project Structure
